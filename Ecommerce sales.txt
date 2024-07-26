@@ -1,0 +1,11 @@
+List the unique categories from the Details table.
+Count the total number of orders in the Orders table.
+
+Find the total profit for each category in the Details table
+Retrieve the orders placed in the year 2018 from the Orders table.
+Find the total quantity of items ordered by each customer.
+
+Find the top 5 cities with the highest total sales amount.
+Calculate the average profit margin (Profit/Amount) for each sub-category.
+List the customers who have placed more than 5 orders.
+Identify the month with the highest sales amount in 2018.
